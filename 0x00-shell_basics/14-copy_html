@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./*.html /tmp/u
+cp ./*.html/tmp/u
