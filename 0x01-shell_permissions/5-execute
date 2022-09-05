@@ -1,2 +1,2 @@
 #!/bin/bash
-bash hello
+bash hello.sh
